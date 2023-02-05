@@ -73,13 +73,37 @@ section img#house {
     z-index: 2;
 }
 
+section img#crs {
+    top: 0;
+    bottom: initial;
+}
+
 #txt {
     position: absolute;
-    color: #112434;
+    color: #fff;
+    left: -150px;
     z-index: 1;
     font-size: 8em;
     font-weight: 900;
     white-space: nowwrap;
     text-transform: uppercase;
     -webkit-text-stroke: 4px #112434;
+}
+
+.sec {
+    position: relative;
+    padding: 100px;
+    background: #bedbe5;
+    box-shadow: 0 0 0 2px #bedbe5;
+}
+
+.sec h2 {
+    font-size: 3em;
+    color: #112434;
+    margin-bottom: 10px;
+}
+
+.sec p {
+    font-size: 1em;
+    color: #112434;
 }
