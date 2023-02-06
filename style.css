@@ -87,7 +87,7 @@ section img#crs {
     font-weight: 900;
     white-space: nowwrap;
     text-transform: uppercase;
-    -webkit-text-stroke: 4px #112434;
+    -webkit-text-stroke: 2px #112434;
 }
 
 .sec {
