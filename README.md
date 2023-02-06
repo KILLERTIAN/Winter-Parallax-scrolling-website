@@ -6,6 +6,9 @@ Link :- https://killertian.github.io/Winter-Parallax-scrolling-website/
 
 Preview
 
+![image](https://user-images.githubusercontent.com/77867638/217048037-cd9e1ec4-9206-4559-8b65-4a27a537ee90.png)
+![image](https://user-images.githubusercontent.com/77867638/217048109-fe8f43c2-13b4-40e4-90cb-5d60a154d71a.png)
+
 
 # License
 
