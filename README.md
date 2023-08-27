@@ -1,8 +1,8 @@
 # Winter-Parallax-scrolling-website
 
-This website is made with help of a tutorial available on youtube 
+This webpage is made with the help of a tutorial available on YouTube 
 
-Link :- https://killertian.github.io/Winter-Parallax-scrolling-website/
+Link:- https://killertian.github.io/Winter-Parallax-scrolling-website/
 
 Preview
 
